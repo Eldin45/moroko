@@ -1,6 +1,6 @@
 # 🏬 Qreta • Instant Digital Storefront
 
-> **Qreta** is a modern business platform that transforms physical spaces into digital storefronts. With a simple QR code scan, customers instantly access your entire product catalog, services, and business information—bridging the gap between physical presence and digital commerce.
+> **Qreta** is a modern platform that transforms physical spaces into digital storefronts. With a simple QR code scan, customers instantly access your entire product catalog, services, and business information—bridging the gap between physical presence and digital commerce.
 
 ## 🚀 Features
 
